@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",09/07/2024 
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",11/07/2024 
 http://manoplus.ddns.net/mano.mp4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnPoCGU.png" group-title="PIX/PARA CONTINUAR ATUALIZANDO",Chave Aleatória - e176ad31-2c74-4fb9-9d59-62b4bf5d0f39
@@ -895,10 +895,10 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/282
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/281
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0HD.png" group-title="Canais | FILMES E SERIES",Sony Channel HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony HD 
 https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0HD.png" group-title="Canais | FILMES E SERIES",Sony Channel HD [Alter]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony HD [Alter]
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
@@ -1801,8 +1801,11 @@ https://serv2.videovox.pw/video13154/video13154/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n232OSq.png" group-title="Canais | ABERTO",Tela Viva TV 
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV HD
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV FHD
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wp0jhkB.png" group-title="Canais | ABERTO",Rede Família
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8?ManoTV
@@ -2283,6 +2286,11 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV+
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62077
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Canais | INTERNACIONAL",EUROSPORT 1 HD
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8026
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Canais | INTERNACIONAL",EUROSPORT 2 HD
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8024
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Canais | INTERNACIONAL",TVCine Emotion SD 
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286357
@@ -2296,11 +2304,14 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61985
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhFxUc1.png" group-title="Canais | INTERNACIONAL",TV5 Mond
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20240313T073242SQUARE.png" group-title="Canais | INTERNACIONAL",La Liga Inside
-https://jmp2.uk/SamsungTVPlus/ESBD4700001T2.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="Canais | INTERNACIONAL",LA LIGA
+https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes SD
-https://seo.tv.bo/tv/seo5.m3u8
+https://seo.tv.bo/tv/SEOtv_5sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes HD
+https://seo.tv.bo/tv/SEOtv_5B.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Canais | INTERNACIONAL",Euronews | Rakuten
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
