@@ -1465,6 +1465,14 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="Canais | INFANTIL",Peppa Pig YT
 https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="Canais | INFANTIL",Chespirito
+http://168.205.87.198:8555/live/1492/123456/159.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Chaves 24h
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Chapolin Colorado 24h
+http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
 
 ############################################################################ Canais | MÚSICA 
 
