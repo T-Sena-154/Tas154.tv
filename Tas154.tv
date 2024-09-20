@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",10/09/2024 
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",20/09/2024 
 http://manoplus.ddns.net/mano.mp4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnPoCGU.png" group-title="PIX/PARA CONTINUAR ATUALIZANDO",Chave Aleatória - e176ad31-2c74-4fb9-9d59-62b4bf5d0f39
@@ -21,8 +21,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 4k
-
-
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
@@ -128,6 +126,12 @@ http://xciptv.8888play.one:80/228463308/r576049x/360919
 http://xciptv.8888play.one:80/228463308/r576049x/2394
 
 ############################################################################ Canais | REALITY
+
+#EXTINF:-1 tvg-logo="https://imgur.com/umUx2k0.png" group-title="Canais | REALITY",A FAZENDA 16 HD
+https://cr7v.short.gy/25_mensais/AF1/Whats7591634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/umUx2k0.png" group-title="Canais | REALITY",A FAZENDA Cam 2 HD
+https://cr7v.short.gy/25_mensais/AF2/Whats7591634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | REALITY",Estrela Da Casa 1
 https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam1/Index.m3u8
@@ -837,17 +841,20 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 ############################################################################ Canais | NOVELAS
 
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/14.m3u8
+
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
-http://pfsv.io:80/pu1411/HP5729/123.m3u8
+http://pfsv.io:80/6705646555/60670/123.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
-http://pfsv.io:80/pu1411/HP5729/114.m3u8
+http://pfsv.io:80/6705646555/60670/123.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
-http://pfsv.io:80/pu1411/HP5729/105.m3u8
+http://pfsv.io:80/6705646555/60670/123.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD [Alter]
 
@@ -880,7 +887,7 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="Canais | NOVELAS",Pluto TV Novelas
-https://i.mjh.nz/PlutoTV/15dcde0cc2efd2700090b7ff4-alt.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -1121,6 +1128,9 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
 http://authbr15jul.halites.online:80/5861/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
+
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
 http://authbr15jul.halites.online:80/5859/index.m3u8
 
@@ -1132,8 +1142,6 @@ http://authbr15jul.halites.online:80/5861/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
-
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
